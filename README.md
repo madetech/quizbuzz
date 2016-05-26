@@ -19,7 +19,7 @@ After each event, this repo will be updated with the questions that were used on
 
 ### Trivia
 - [Programming](trivia/programming.md)
-- [Geeky](trivia/geeky.md)
+- [Geeky](trivia/geek.md)
 
 ### Picture Rounds
 - [AWS Services](pictures/aws.md)
