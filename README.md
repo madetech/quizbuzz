@@ -1,5 +1,3 @@
-# QuizBuzz!
-
 ![QuizBuzz banner](quizbuzz_banner.jpg)
 
 Made Tech runs a regular meetup event named QuizBuzz, a pub quiz-style evening open to anyone in the tech community, featuring prizes, pizza and drinks. Details of the next event will be posted [here](http://www.meetup.com/QuizBuzz/), feel free to join us for the next one!
